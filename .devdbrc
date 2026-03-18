@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "c:\\php apps\\VolleyballStatistics\\database\\database.sqlite"
+  }
+]
